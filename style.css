@@ -4,8 +4,35 @@
 
 body {
 	background-color: #8D0FBD;
-	color: #000000;
+	color: black;
 	font-size: 18px;
 	font-family: Cambria;
+}
+
+h1{
+	font-size: 52px;
 	text-align: center;
-} 
+}
+
+h2{
+	text-align: center;
+	font-size: 42px;
+}
+
+#links{
+	text-align: center;
+	font-size: 42px;
+	color: black;
+}
+
+.school_or_job{
+	text-align: center;
+	font-size: 32px;
+}
+
+.time_period{
+	text-align: center;
+	font-style: italic;
+	font-size: 24px;
+}
+
