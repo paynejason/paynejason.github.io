@@ -1,1 +1,11 @@
- 
+/* style.css
+ * Jason Payne
+ * Personal Website */
+
+body {
+	background-color: #8D0FBD;
+	color: #000000;
+	font-size: 18px;
+	font-family: Cambria;
+	text-align: center;
+} 
