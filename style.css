@@ -18,9 +18,10 @@ h1{
 	font-weight: bold;
 	margin-top: 4%;
 	margin-bottom: 4%;
-	background-color: #571B7E;
+	background-color: purple;
 	border-style: double;
 	border-color: black;
+	border-width: medium;
 }
 
 h2{
@@ -49,12 +50,12 @@ ul{
 
 .school_or_job{
 	font-size: 32px;
+	margin-top: 1%;
 }
 
 .time_period{
 	font-style: italic;
 	font-size: 20px;
-	margin-top: .2%
 }
 
 .skill_category{
