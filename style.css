@@ -13,12 +13,13 @@ body {
 }
 
 h1{
+	color: white;
 	font-size: 72px;
 	font-weight: bold;
-	margin-top: 5%;
-	margin-bottom: 5%;
-	background-color: #E9CFEC;
-	border-style: solid;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	background-color: #571B7E;
+	border-style: double;
 	border-color: black;
 }
 
@@ -53,6 +54,7 @@ ul{
 .time_period{
 	font-style: italic;
 	font-size: 20px;
+	margin-top: .2%
 }
 
 .skill_category{
