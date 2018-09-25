@@ -3,7 +3,7 @@
  * Personal Website */
 
 body {
-	background-color: #8D0FBD;
+	background-color: #DA70D6;
 	color: black;
 	font-size: 18px;
 	font-family: Cambria;
@@ -15,20 +15,20 @@ body {
 h1{
 	font-size: 52px;
 	font-weight: bold;
-	margin-top: 20%;
-	margin-bottom: 20%;
-	background-color: white;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	background-color: red;
 }
 
 h2{
 	font-size: 42px;
-	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 
 p{
-	margin-top: 5%;
-	margin-bottom: 5%;
+	margin-top: .5%;
+	margin-bottom: .5%;
 }
 
 ul{
