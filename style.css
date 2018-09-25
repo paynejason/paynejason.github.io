@@ -3,7 +3,7 @@
  * Personal Website */
 
 body {
-	background-color: #DA70D6;
+	background-color: #6960EC;
 	color: black;
 	font-size: 18px;
 	font-family: Cambria;
@@ -17,7 +17,8 @@ h1{
 	font-weight: bold;
 	margin-top: 5%;
 	margin-bottom: 5%;
-	background-color: blue;
+	background-color: #E9CFEC;
+	border-style: solid;
 	border-color: black;
 }
 
