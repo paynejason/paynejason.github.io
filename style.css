@@ -13,15 +13,16 @@ body {
 }
 
 h1{
-	font-size: 52px;
+	font-size: 72px;
 	font-weight: bold;
-	margin-top: 10%;
-	margin-bottom: 10%;
-	background-color: red;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: blue;
+	border-color: black;
 }
 
 h2{
-	font-size: 42px;
+	font-size: 52px;
 	margin-top: 2%;
 	margin-bottom: 2%;
 }
@@ -38,6 +39,10 @@ ul{
 #links{
 	font-size: 42px;
 	color: black;
+}
+
+#biography{
+	font-size: 24px;
 }
 
 .school_or_job{
